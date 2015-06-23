@@ -1,0 +1,15 @@
+{
+  "name": "a2plus_app",
+  "version": "1.0.0",
+  "description": "a2p official app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "express": "2.5.11",
+    "ejs": "0.7.2"
+  },
+  "author": "Diljith Dinesh",
+  "license": "ISC"
+}
